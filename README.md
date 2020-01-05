@@ -6,7 +6,7 @@ This is an offline deployment of openstack Stein version, which is divided into 
 
 ## Version update description
 
-### Current version: v1.0.0
+#### Current version: v1.0.0
 
 This version systematically stores scripts in RPM package, and users can use scripts by executing the following commands:
 yum -y install nozz-db or yum -y install nozz-sg
